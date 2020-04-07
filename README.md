@@ -4,5 +4,5 @@ Just run the `index.html` in your browser.
 
 ---
 
-Copyright 2019 Nextapps GmbH<br>
-Released under the <a href="http://www.apache.org/licenses/LICENSE-2.0.html" target="_blank">Apache 2.0 License</a><br>
+© 2020 AYCH inc. Nx AYCHERA<br>
+Released under [AGPL-3.0 International]<a href="https://www.gnu.org/licenses/" target="_blank">AGPL-3.0 License</a><br>
